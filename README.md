@@ -1,6 +1,8 @@
 # Hi there 👋
 
-Here are some ideas to get you started:
+</div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -33,7 +35,8 @@ Here are some ideas to get you started:
   
 <div> 
   <a href="https://instagram.com/welthanos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-D43377?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.facebook.com/welton.santos.796" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1A4789?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/welton.santos.796" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1A4789?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/welthanos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:weltonsts15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D44C3D?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-welton-dos-santos-a706a3205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
