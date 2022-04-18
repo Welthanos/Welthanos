@@ -2,7 +2,7 @@
 
  <img align="right" height="182" src="https://raw.githubusercontent.com/Welthanos/Welthanos/main/.github/workflows/itachi.png">
  
-- 🔭 I’m currently working on ifSmart
+- 🔭 I’m currently working on ifSmart Jr
 - 🤓 I’m currently learning Flutter
 - 👁‍🗨 I’m looking to collaborate on anything
 
