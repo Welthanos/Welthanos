@@ -36,8 +36,5 @@
 </div>
 
 ##
-  
-<img align="center" height="400" src="https://raw.githubusercontent.com/Welthanos/Welthanos/main/.github/workflows/akatsuki_.png">
-  
-
+ 
 ![Snake animation](https://github.com/Welthanos/Welthanos/blob/output/github-contribution-grid-snake.svg)
