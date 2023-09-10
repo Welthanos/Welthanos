@@ -1,6 +1,6 @@
 # Hello World!
 
- <img align="right" height="196" src="https://raw.githubusercontent.com/Welthanos/Welthanos/main/.github/workflows/itachi.png">
+ <img align="right" height="198" src="https://raw.githubusercontent.com/Welthanos/Welthanos/main/.github/workflows/itachi.png">
  
 - 🖥️ I’m currently working on Propex | Instituto Federal de Sergipe
 - 📖 I’m currently learning front-end in React and back-end in Node.js
