@@ -3,7 +3,8 @@
  <img align="right" height="200" src="https://raw.githubusercontent.com/Welthanos/Welthanos/main/.github/workflows/itachi.png">
  
 - 🖥️ I’m currently working on Propex | Instituto Federal de Sergipe
-- 📖 I’m currently learning front-end in React and back-end in Node.js
+- 📖 Learning front-end in React and back-end in Node.js
+- 👨‍💻 In the programming area since 2020, focusing on fullstack development
   
 ##
 
