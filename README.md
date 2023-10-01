@@ -4,8 +4,7 @@
  
 - 🖥️ I’m currently working on Propex | Instituto Federal de Sergipe
 - 📖 I’m currently learning front-end in React and back-end in Node.js
-- 🎶 Life is better with music
-
+  
 ##
 
 <div style="display: inline_block"><br>
