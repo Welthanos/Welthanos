@@ -2,21 +2,26 @@
 
  <img align="right" height="200" src="https://raw.githubusercontent.com/Welthanos/Welthanos/main/.github/workflows/itachi.png">
  
-- 🖥️ I’m currently working on Propex | Instituto Federal de Sergipe
+- 🖥️ I’m currently working on DBC Company | Intern
 - 📖 Learning front-end in React and back-end in Node.js
 - 👨‍💻 In the programming area since 2020, focusing on fullstack development
   
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center"  height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center"  height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="40"  src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center"  height="35"  src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center"  height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="28"  src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+  <img align="center"  height="28"  src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+  <img align="center"  height="30"  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center"  height="28"  src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center"  height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center"  height="45"  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
   
 ##
